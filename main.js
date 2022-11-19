@@ -37,7 +37,7 @@ for(i=0; i<locations.length; i++){
         position: new google.maps.LatLng(locations[i][1], locations[i][2]),
         map: map,
     });
-// 마크를 클릭했을 때 보여주는 정보
+//마크를 클릭했을 때 보여주는 정보 
     google.maps.event.addListener(
         marker,
         "click",
