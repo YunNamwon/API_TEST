@@ -31,13 +31,13 @@ const infowindow = new google.maps.InfoWindow();
 
 let marker, i;
 
-//로케이션별로 마크 생성
+//로케이션별로 마크 생성////
 for(i=0; i<locations.length; i++){
     marker = new google.maps.Marker({
         position: new google.maps.LatLng(locations[i][1], locations[i][2]),
         map: map,
     });
-// 마크를 클릭했을 때 보여주는 정보
+//마크를 클릭했을 때 보여주는 정보 
     google.maps.event.addListener(
         marker,
         "click",
