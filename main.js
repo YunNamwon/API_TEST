@@ -15,7 +15,7 @@ async function getData(){
     console.log("locations", locations);
     drawMap(locations);
 }
-
+``
 function drawMap(locations){
 // 매개변수의 형태
 // locations = [ ["지역이름", 위도, 경도],
