@@ -1,4 +1,5 @@
 {
     "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "bin/Release/net6.0/publish"
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5fd8de69-2dee-40d3-8e63-704377a515c5/AppServices/subscriptions/5fd8de69-2dee-40d3-8e63-704377a515c5/resourceGroups/ynwgr/providers/Microsoft.Web/sites/ynwapp"
 }
