@@ -1,0 +1,7 @@
+C:\Users\qazcd\Documents\VSCode\azureApp\API_TEST\bin\Release\net6.0\publish\API_TEST.exe
+C:\Users\qazcd\Documents\VSCode\azureApp\API_TEST\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\qazcd\Documents\VSCode\azureApp\API_TEST\bin\Release\net6.0\publish\appsettings.json
+C:\Users\qazcd\Documents\VSCode\azureApp\API_TEST\bin\Release\net6.0\publish\API_TEST.dll
+C:\Users\qazcd\Documents\VSCode\azureApp\API_TEST\bin\Release\net6.0\publish\API_TEST.deps.json
+C:\Users\qazcd\Documents\VSCode\azureApp\API_TEST\bin\Release\net6.0\publish\API_TEST.runtimeconfig.json
+C:\Users\qazcd\Documents\VSCode\azureApp\API_TEST\bin\Release\net6.0\publish\API_TEST.pdb
